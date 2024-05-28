@@ -14,14 +14,14 @@ const ContactMe = () => {
     // Replace with your own email service configuration
     emailjs
       .send(
-        "service_d3i6gjr",
-        "template_udk7x5n",
+        "service_8cbkbid",
+        "template_bukcxpp",
         {
           name,
           email,
           message,
         },
-        "_kJm8P5DrR7pk6vPS"
+        "8kw4F-IXy7eXeRhOZ"
       )
       .then(() => {
         alert("Message sent successfully!");

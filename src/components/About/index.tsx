@@ -6,15 +6,10 @@ const About = () => {
     <section className={styles["about"]}>
       <div className={styles["content"]}>
         <p className={styles.mainQuote}>
-          Welcome to my portfolio website! I'm <b>Samkit Kothari</b> , an
-          experienced frontend engineer specializing in React and Next.js.
+          Welcome to my portfolio website! I'm <b>Devansh Sharma</b> , an
+          experienced backend engineer specializing in Java and Spring-Boot.
           Explore my work and see how I transform ideas into captivating digital
           experiences.
-        </p>
-        <br />
-        <p>
-          "Pixels to Perfection: Sculpting Immersive Experiences through
-          Frontend Brilliance."
         </p>
         <br />
         <p>
@@ -25,7 +20,7 @@ const About = () => {
         <br />
         <div className={styles["buttonContainer"]}>
           <button className={styles["button"]}>
-            <a href="/files/resume.pdf" className={styles.link} download>
+            <a href="/files/Devansh Sharma- 7275521764-18.pdf" className={styles.link} download="Devansh Sharma-7275521764">
               Resume
             </a>
           </button>

@@ -1,5 +1,5 @@
 import styles from "./CPlusPlus.module.scss";
-import img from "./cplusplus.png";
+import img from "./java.png";
 const CPlusPlus = () => {
   return (
     <div className={styles.main}>

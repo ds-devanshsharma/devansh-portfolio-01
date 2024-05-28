@@ -6,7 +6,7 @@ const Navbar = () => {
     <header className={styles["navbar-container"]}>
       <div className={styles["navbar"]}>
         <a className={styles["heading"]} href="#about">
-          SAMKIT KOTHARI
+          Devansh Sharma 
         </a>
         <div className={styles["navbar-links-container"]}>
           <a href="#about" className={styles["navbar-link"]}>
@@ -45,7 +45,7 @@ const Navbar = () => {
             ].join(" ")}
           >
             <div className={styles["top-container"]}>
-              <span className={styles["menu-heading"]}>SAMKIT KOTHARI</span>
+              <span className={styles["menu-heading"]}>ANUJ SUNDRIYAL</span>
               <div
                 data-type="CloseMobileMenu"
                 className={styles["close-menu"]}
